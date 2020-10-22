@@ -20,4 +20,10 @@
 
 * 4.3.1 Arrays and ranges refresher
 * 4.3.2 Blocks (Each, map) and practicing old exercises I missed
-* 4.3.3 Hashes and Symbols,  Hashes have a key and a value, a key can be also a symbol, merge is replace a key and value
+* 4.3.3 Hashes and Symbols,  Hashes have a key and a value, a key can be also a symbol, merge is replace a key and v
+
+## October 21st
+
+* 4.4.1 Ruby Classes: Constructor, Literal and named constructor, more explicit
+* 4.4.2 Class inheritance, using superclass and using "< String" to inherit all the same methods as strings 
+* 4.4.3 Modified a built in class like string, using split, shuffle and join to randomize an array of numbers or words
