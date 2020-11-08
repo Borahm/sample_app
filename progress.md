@@ -35,3 +35,4 @@
 ## Nov 7th
 
 * 5.1.1 added a site navigation to the application template and a few links to the homepage as well
+* 5.3.2 Adding routes
