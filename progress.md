@@ -52,3 +52,8 @@
 * 6.1.4 Finding user objects
 * 6.1.5 Updating user objects
 * 6.2 User validation
+* 6.2.1 A validity tests (valid?)
+* 6.2.2 Validating presence (validates :presence)
+* 6.2.3 Length validation (validates :length)
+* 6.2.4 Format validation (format: with: REGEX)
+* 6.2.5 Uniqueness validation
