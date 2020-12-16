@@ -50,3 +50,5 @@
 * 6.1.2 The model file
 * 6.1.3 Creating user objects
 * 6.1.4 Finding user objects
+* 6.1.5 Updating user objects
+* 6.2 User validation
