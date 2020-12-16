@@ -36,3 +36,17 @@
 
 * 5.1.1 added a site navigation to the application template and a few links to the homepage as well
 * 5.3.2 Adding routes
+
+## Dec 15th
+* 5.3.3 Using named routes
+* 5.3.4 Layout link tests
+* 5.4 User sign up: A first step
+* 5.4.1 Users controller
+* 5.4.2 Sign up URL
+
+## Dec 16th
+* 6.1 Defined the User model with name and email
+* 6.1.1 Database migrations
+* 6.1.2 The model file
+* 6.1.3 Creating user objects
+* 6.1.4 Finding user objects
