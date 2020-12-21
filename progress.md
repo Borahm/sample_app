@@ -56,4 +56,22 @@
 * 6.2.2 Validating presence (validates :presence)
 * 6.2.3 Length validation (validates :length)
 * 6.2.4 Format validation (format: with: REGEX)
+* 6.2.1 A validity tests (valid?)
+* 6.2.2 Validating presence (validates :presence)
+* 6.2.3 Length validation (validates :length)
+* 6.2.4 Format validation (format: with: REGEX)
+* 6.2.1 A validity tests (valid?)
+* 6.2.2 Validating presence (validates :presence)
+* 6.2.3 Length validation (validates :length)
+* 6.2.4 Format validation (format: with: REGEX)
 * 6.2.5 Uniqueness validation
+## Dec 18th
+* 6.3 Adding a secure password
+* 6.3.1 A hashed password
+* 6.3.2 User has secure pasword
+* 6.3.3 Minimum password standards
+* 6.3.4 Creating and authentificating a user
+## Dec 21st
+* 7.1 Showing users
+* 7.1.1 Debug and Rails environments
+* 7.1.2 A Users resource
