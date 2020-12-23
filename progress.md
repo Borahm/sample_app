@@ -75,3 +75,5 @@
 * 7.1 Showing users
 * 7.1.1 Debug and Rails environments
 * 7.1.2 A Users resource
+* 7.1.3 Debugger
+* 7.1.4 Gravatar image and sidebar
